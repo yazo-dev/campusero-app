@@ -1,1 +1,0 @@
-# campusero-app
