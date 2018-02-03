@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/menu_itens"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/item_timeline"
+            android:icon="@drawable/ic_timeline"
+            android:title="Timeline" />
+
+        <item
+            android:id="@+id/item_people"
+            android:icon="@drawable/ic_people"
+            android:title="People" />
+
+        <item
+            android:id="@+id/item_speakers"
+            android:icon="@drawable/ic_speakers"
+            android:title="Speakers" />
+
+        <item
+            android:id="@+id/item_ranking"
+            android:icon="@drawable/ic_ranking"
+            android:title="Ranking" />
+
+        <item
+            android:id="@+id/item_agenda"
+            android:icon="@drawable/ic_agenda"
+            android:title="Agenda" />
+
+        <item
+            android:id="@+id/item_favorites"
+            android:icon="@drawable/ic_favorites"
+            android:title="Notes" />
+
+        <item
+            android:id="@+id/item_qr"
+            android:checkable="false"
+            android:icon="@drawable/ic_ra"
+            android:title="QR Code Scanner" />
+
+        <item
+            android:id="@+id/item_ra"
+            android:checkable="false"
+            android:icon="@drawable/ic_ra"
+            android:title="Augmented Reality" />
+        <item
+            android:id="@+id/item_map"
+            android:checkable="false"
+            android:icon="@drawable/ic_map"
+            android:title="Map" />
+
+        <item
+            android:id="@+id/item_logout"
+            android:icon="@drawable/ic_logout"
+            android:title="Log out" />
+    </group>
+
+</menu>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f27021</color>
+    <color name="colorPrimaryDark">#f27021</color>
+    <color name="colorAccent">#ee3442</color>
+    <color name="statusBar">#212e6b</color>
+
+    <color name="texto">#fff</color>
+    <color name="texto_secundario">#87ffffff</color>
+    <color name="texto80">#80ffffff</color>
+
+    <!--<color name="texto">#DD000000</color>-->
+    <!--<color name="texto_secundario">#A5000000</color>-->
+    <!--<color name="texto80">#66000000</color>-->
+
+    <color name="progressBar">#FFFF00</color>
+    <color name="pretoTransparente">#88000000</color>
+
+    <color name="background_timeline">#fcfcfc</color>
+
+    <color name="blue_background">#0085a2</color>
+    <color name="red_favorite">#cc3333</color>
+    <color name="branco">#fff</color>
+    <color name="gray111">#222</color>
+    <color name="branco80">#80ffffff</color>
+    <color name="grayAD">#adadad</color>
+
+    <color name="gray8080">#808080</color>
+    <color name="gray3333">#333333</color>
+    <color name="gray6666">#666666</color>
+    <color name="grayf2f2">#f2f2f2</color>
+    <color name="grayb2b2">#b2b2b2</color>
+    <color name="gray7373">#737373</color>
+    <color name="gray9999">#999999</color>
+    <color name="grayc1c1">#c1c1c1</color>
+
+    <!--Colors Vuforia-->
+    <color name="holo_light_blue">#33B5E5</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#575757</color>
+    <color name="light_gray">#D3D3D3</color>
+    <color name="semi_transparent_black">#C8000000</color>
+</resources>

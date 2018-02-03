@@ -1,0 +1,61 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="AppTheme.Base" />
+
+    <style name="AppTheme.Base" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimary</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="windowActionBar">false</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar" parent="AppTheme.Base" />
+
+    <style name="CustomActionBar" parent="@style/ThemeOverlay.AppCompat.Light">
+        <!--<item name="colorControlNormal">@color/branco</item>-->
+        <!--<item name="android:textColor">@color/branco</item>-->
+        <!--<item name="android:textColorHint">@color/branco80</item>-->
+
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="windowActionBarOverlay">true</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+
+    <style name="toolbar_branca" parent="AppTheme">
+        <item name="android:textColorSecondary">@color/branco</item>
+        <item name="android:textColor">@color/branco</item>
+
+        <!--<item name="colorControlNormal">@color/branco</item>-->
+        <!--<item name="android:textColorHint">@color/branco80</item>-->
+    </style>
+
+    <style name="toolbar_preta" parent="AppTheme">
+        <item name="colorControlNormal">@color/black</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textColorHint">@color/black</item>
+
+        <item name="android:textColorSecondary">@color/gray3333</item>
+    </style>
+
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="full_screen_dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTitleStyle">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar.FullScreen" parent="AppTheme.Base" />
+
+</resources>
