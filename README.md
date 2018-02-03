@@ -1,13 +1,18 @@
 # APP Campus Party Hackathon
 # Team YAZO
 
-##Members
+#Members
 
-Carlos Eduardo Frezarin
-Giovana Brianti
-Guilherme Silva
-Gustavo Borges
-Jonata William
+* Carlos Eduardo Frezarin
+
+* Giovana Brianti
+
+* Guilherme Silva
+
+* Gustavo Borges
+
+* Jonata William
+
 
 
 # Recomendation 
